@@ -1,0 +1,12 @@
+{
+  "folders": [
+    { "name": "Lab root", "path": "." },
+    { "name": "Exercise 1", "path": "ex1" },
+    { "name": "Exercise 2", "path": "ex2" },
+    { "name": "Exercise 3", "path": "ex3" }
+  ],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "files.encoding": "utf8"
+  }
+}
